@@ -1,58 +1,30 @@
-<!-- HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=220&section=header&text=Pawan%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Assistant%20Professor%20%40%20SIRT%20Bhopal%20%7C%20M.Tech%20CSE&descAlignY=60&descSize=18&descColor=d0aaff"/>
-</div>
 
-<!-- TYPING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=👋+Hello!+I'm+Pawan+Tiwari;👨‍🏫+Assistant+Professor+%40+SIRT+Bhopal;🎓+M.Tech+in+Computer+Science+%26+Engineering;💻+Developer+%26+AI+Enthusiast;🚀+Educator+%7C+Researcher+%7C+Builder" alt="Typing SVG"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=220&section=header&text=Pawan%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Assistant%20Professor%20%40%20SIRT%20Bhopal%20%7C%20M.Tech%20CSE&descAlignY=60&descSize=18&descColor=d0aaff"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&height=55&lines=Hello!+I'm+Pawan+Tiwari+%F0%9F%91%8B;Assistant+Professor+%40+SIRT+Bhopal+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;M.Tech+in+Computer+Science+%26+Engineering+%F0%9F%8E%93;Developer+%26+AI+Enthusiast+%F0%9F%92%BB;Educator+%7C+Researcher+%7C+Builder+%F0%9F%9A%80" alt="Typing SVG" /></a>
+
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 ## 👨‍🏫 About Me
 
-<table>
-<tr>
-<td valign="top" width="60%">
-
-- 👨‍🏫 **Assistant Professor** at **SIRT Bhopal**
+- 👨‍🏫 **Assistant Professor** at **SIRT Bhopal** *(Sagar Institute of Research & Technology)*
 - 🎓 **M.Tech in Computer Science & Engineering**
-- 💻 Passionate about **AI, ML & Software Development**
-- 🔭 Working on **Research in AI/ML and Web Development**
-- 🌱 Exploring **Deep Learning, Data Science & Cloud**
-- 📚 Teaching & mentoring students in **CSE & AI**
+- 💻 Passionate about **Artificial Intelligence, ML & Software Development**
+- 🔭 Currently working on **Research in AI/ML and Web Development**
+- 🌱 Exploring **Deep Learning, Data Science & Cloud Technologies**
+- 📚 Teaching & mentoring students in **CSE, AI and Programming**
 - 📍 **Bhopal, Madhya Pradesh, India** 🇮🇳
-- 📫 **ptiwari898@github**
-- ⚡ Fun fact: I turn chai ☕ into code 💻 & knowledge 📖
-
-</td>
-<td valign="top" width="40%" align="center">
-
-```text
-🏫  SIRT Bhopal
-🎓  M.Tech CSE
-💻  Full Stack Dev
-🤖  AI / ML Research
-📚  Educator & Mentor
-📍  Bhopal, India
-```
-
-</td>
-</tr>
-</table>
+- 📫 Reach me: **ptiwari898@github**
+- ⚡ Fun fact: I turn chai ☕ into code 💻 and knowledge 📖
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 ## 🛠️ Tech Stack
 
@@ -77,10 +49,7 @@
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 ## 🌐 Connect with Me
 
@@ -97,75 +66,65 @@
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ptiwari898&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptiwari898&theme=dracula&hide_border=true&layout=compact" height="165"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ptiwari898&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptiwari898&theme=dracula&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ptiwari898&theme=dracula&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=ptiwari898&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180em"/>
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<br/>
-
-## 📊 GitHub Summary Card
+## 🗂️ GitHub Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptiwari898&theme=dracula" width="100%"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptiwari898&theme=dracula"/>
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ptiwari898&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ptiwari898&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ptiwari898&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2&area=true&hide_border=true&area_color=6e40c9" width="100%"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ptiwari898&bg_color=282a36&color=bd93f9&line=ff79c6&point=f8f8f2&area=true&hide_border=true"/>
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ptiwari898/ptiwari898/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
 
-**Step 1:** In your `ptiwari898` repo, create `.github/workflows/snake.yml`:
+> ⚠️ Snake won't show until you set up the GitHub Action. See setup instructions below.
+
+<details>
+<summary>📋 Click here for Snake setup instructions</summary>
+
+Create file `.github/workflows/snake.yml` in your `ptiwari898` repo:
 
 ```yaml
 name: Generate Snake
@@ -189,22 +148,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Step 2:** Go to Actions tab → Run workflow manually once.
+Then go to **Actions tab → Run workflow manually once**.
 
-**Step 3:** After it runs, replace this entire snake section with:
-
-```markdown
-![Snake](https://raw.githubusercontent.com/ptiwari898/ptiwari898/output/github-contribution-grid-snake-dark.svg)
-```
-
-</div>
+</details>
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<br/>
 
 ## 💬 Dev Quote
 
@@ -214,14 +164,12 @@ jobs:
 
 <br/>
 
-<!-- PROFILE VIEWS -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ptiwari898&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
 
-<!-- FOOTER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer&animation=fadeIn"/>
 </div>
