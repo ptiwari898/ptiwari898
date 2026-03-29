@@ -54,10 +54,9 @@ def build_repo_table(repos):
         else:
             lang_badge = "—"
 
-        star_badge = f"![](https://img.shields.io/badge/%E2%AD%90-{stars}-FFD700?style=flat-square)"
-        rows.append(f"| [**{name}**]({url}) | {desc[:55]}{'...' if len(desc) > 55 else ''} | {lang_badge} | {star_badge} | `{updated}` |")
+        rows.append(f"| [**{name}**]({url}) | {desc[:55]}{'...' if len(desc) > 55 else ''} | {lang_badge} | ⭐ {stars} | `{updated}` |")
 
-    header = "| 📦 Repository | 📜 Description | 🗣️ Language | ⭐ Stars | 🕐 Updated |\n"
+    header = "| Repository | Description | Language | Stars | Updated |\n"
     header += "|:---|:---|:---:|:---:|:---:|\n"
     return header + "\n".join(rows)
 
