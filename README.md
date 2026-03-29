@@ -4,8 +4,12 @@
 <!--          MINECRAFT ANIMATED HEADER                -->
 <!-- ══════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=⛏%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20⛏&descAlignY=72&descSize=18&descColor=95d5b2"/>
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=95d5b2">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:6a994e,50:a7c957,100:d4e09b&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=1b4332&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=2d6a4f">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=95d5b2" alt="Header">
+</picture>
+
 <br/>
 
 <!-- ══ MINECRAFT PIXEL TYPING ANIMATION ══ -->
@@ -107,7 +111,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+MY+REPOSITORIES+(12+total)" alt="section" />
 </div>
 
-> 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-03-29 18:07 UTC**_
+> 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-03-29 18:09 UTC**_
 
 | 📦 Repository | 📜 Description | 🗣️ Language | ⭐ Stars | 🕐 Updated |
 |:---|:---|:---:|:---:|:---:|
