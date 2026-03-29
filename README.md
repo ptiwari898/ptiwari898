@@ -1,97 +1,139 @@
 <div align="center">
 
-<!-- Animated Wave Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:B026FF&height=200&section=header&text=Pawan%20Tiwari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Assistant%20Professor%20%7C%20Full%20Stack%20Dev%20%7C%20AI%20Explorer&descAlignY=58&descSize=20" />
+<!-- ████████████████████████████████████████████████████ -->
+<!-- ██         MINECRAFT STYLE HEADER BANNER           ██ -->
+<!-- ████████████████████████████████████████████████████ -->
 
-<!-- Typing Animation -->
-<a href="https://github.com/ptiwari898">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=👋+Hi%2C+I'm+Pawan+Tiwari!;🎓+Assistant+Professor+%40+SIRT+Bhopal;💻+Full+Stack+Developer+%26+AI+Explorer;📚+Open+Source+Lab+Manuals+for+RGPV;⌨️+Custom+Keyboards+%7C+On-Device+AI;🌱+Always+Learning+%26+Building+Cool+Things!" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3d2b1f,50:5c3a1e,100:2d5a1b&height=20&section=header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5c8a3c,50:4a7a2e,100:3d6b24&height=18&section=header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6b5a3e,50:5c4a30,100:4a3824&height=160&section=header&text=PAWAN%20TIWARI&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=52&desc=%5B%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%5D&descAlignY=75&descSize=18&descColor=55ff55&fontAlign=50"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5c8a3c,50:4a7a2e,100:3d6b24&height=18"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3d2b1f,50:5c3a1e,100:2d3d1b&height=20"/>
 
 <br/>
 
-<!-- Profile Views + Followers -->
-[![Profile Views](https://komarev.com/ghpvc/?username=ptiwari898&color=B026FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ptiwari898)
-[![GitHub followers](https://img.shields.io/github/followers/ptiwari898?style=for-the-badge&color=6C63FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/ptiwari898?tab=followers)
+<!-- Minecraft Pixel Typing Animation -->
+<a href="https://github.com/ptiwari898">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=55FF55&background=1a1a1aFF&center=true&vCenter=true&random=false&width=750&height=60&lines=%F0%9F%8E%AE+Welcome+to+my+world%2C+Player!;%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB+Asst+Prof+%40+SIRT+Bhopal;%F0%9F%92%BB+Full+Stack+Dev+%26+AI+Explorer;%F0%9F%93%9A+RGPV+Open+Lab+Manuals;%E2%8C%A8%EF%B8%8F+Custom+Keyboards+%7C+On-Device+AI;%F0%9F%8C%B1+Still+Crafting...+Loading+99%25" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Badges Row -->
+[![Profile Views](https://komarev.com/ghpvc/?username=ptiwari898&color=4CAF50&style=for-the-badge&label=👁+PLAYERS+VISITED)](https://github.com/ptiwari898)
+[![GitHub followers](https://img.shields.io/github/followers/ptiwari898?style=for-the-badge&color=55ff55&labelColor=2d2d2d&label=🧑‍🤝‍🧑+FOLLOWERS)](https://github.com/ptiwari898?tab=followers)
 
 </div>
 
----
+<br/>
 
-<!-- Animated Snake Contribution Graph -->
+<!-- ░░░░░░░░░░░░░░░░░░ GRASS DIVIDER ░░░░░░░░░░░░░░░░░░░░ -->
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+█  🐍  CONTRIBUTION SNAKE  —  [ THE WORLD IS YOUR FARM ]  █
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-```yaml
-name       : Pawan Tiwari
-username   : ptiwari898
-role       : Assistant Professor @ SIRT Bhopal
-education  : M.Tech in Computer Science & Engineering
-location   : Bhopal, India 🇮🇳
-focus      :
-  - 📚 RGPV CSIT Open Lab Manuals (published on GitHub)
-  - ⌨️  Custom Keyboards & Firmware
-  - 🤖 On-Device AI & Edge Inference
-  - 📄 Document Tools & Automation
-currently  :
-  - 🔭 Working on 3D Portfolio & React Web Projects
-  - 🌱 Learning Flutter, AI/ML, Full Stack Dev
-  - 👯 Open to collaborate on React & AI Projects
-fun_fact   : "I turn coffee into code ☕"
+<!-- ░░░░░░░░░░░░░░░░░░ GRASS DIVIDER ░░░░░░░░░░░░░░░░░░░░ -->
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+🧱  ABOUT ME  ——  [ PLAYER STATS LOADED ]  🎒
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
----
+```
+╔══════════════════════════════════════════════════════╗
+║  🎮  PLAYER CARD — ptiwari898                        ║
+╠══════════════════════════════════════════════════════╣
+║  NAME       ▶  Pawan Tiwari                          ║
+║  USERNAME   ▶  ptiwari898                            ║
+║  ROLE       ▶  Assistant Professor @ SIRT Bhopal     ║
+║  EDUCATION  ▶  M.Tech in CSE                         ║
+║  LOCATION   ▶  Bhopal, India 🇮🇳                      ║
+╠══════════════════════════════════════════════════════╣
+║  🎒  INVENTORY  (Active Quests)                      ║
+║  ├─ 📚  RGPV CSIT Open Lab Manuals                   ║
+║  ├─ ⌨️   Custom Keyboards & Firmware                  ║
+║  ├─ 🤖  On-Device AI & Edge Inference                ║
+║  └─ 📄  Document Tools & Automation                  ║
+╠══════════════════════════════════════════════════════╣
+║  ⚗️  CRAFTING  (Currently Learning)                   ║
+║  ├─ 🔭  3D Portfolio & React Web Projects            ║
+║  ├─ 🌱  Flutter, AI/ML, Full Stack Dev               ║
+║  └─ 👯  Open to Collaborate on AI & React            ║
+╠══════════════════════════════════════════════════════╣
+║  ⚡  FUN FACT  ▶  I turn coffee into code ☕           ║
+╚══════════════════════════════════════════════════════╝
+```
 
-## 💼 Experience
+<!-- ░░░░░░░░░░░░░░░░░░ EXPERIENCE BLOCK ░░░░░░░░░░░░░░░░░ -->
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+💼  EXPERIENCE  ——  [ ACHIEVEMENTS UNLOCKED ]  🏆
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+```
+╔═══════════════════╦═════════════════════════╦══════════════╗
+║  🎖️  ROLE          ║  🏰  ORGANIZATION        ║  ⏳  DURATION ║
+╠═══════════════════╬═════════════════════════╬══════════════╣
+║  🏫 Asst Professor ║  SIRT Bhopal            ║  2023 – NOW  ║
+║  🌐 Frontend Dev   ║  Freelance              ║  2021 – 2023 ║
+║  🎬 Motion Designer ║  Praadis Technologies  ║  2019 – 2020 ║
+╚═══════════════════╩═════════════════════════╩══════════════╝
+```
+
+<!-- ░░░░░░░░░░░░░░░░░░ ACTIVE PROJECTS ░░░░░░░░░░░░░░░░░░ -->
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+🗂️  ACTIVE PROJECTS  ——  [ CHEST CONTENTS ]  📦
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/Role-blue?style=flat-square"/> | <img src="https://img.shields.io/badge/Organization-6C63FF?style=flat-square"/> | <img src="https://img.shields.io/badge/Duration-B026FF?style=flat-square"/> |
-|---|---|---|
-| 🏫 Assistant Professor | **SIRT Bhopal** | 2023 – Present |
-| 🌐 Front-End Developer | **Freelance** | 2021 – 2023 |
-| 🎬 Motion Graphic Designer | **Praadis Technologies Inc** | 2019 – 2020 |
+| 📦 Project | 🔍 Description | 🔖 Status |
+|:-----------|:--------------|:---------:|
+| 📖 **RGPV Lab Manuals** | Open lab manuals for RGPV CSIT practical subjects | ![Active](https://img.shields.io/badge/⛏_MINING-55ff55?style=flat-square&labelColor=2d2d2d) |
+| ⌨️ **Custom Keyboards** | Firmware & pixel layout experiments | ![Active](https://img.shields.io/badge/⛏_MINING-55ff55?style=flat-square&labelColor=2d2d2d) |
+| 🤖 **On-Device AI** | Edge inference & lightweight AI tools | ![Active](https://img.shields.io/badge/⛏_MINING-55ff55?style=flat-square&labelColor=2d2d2d) |
+| 📄 **Document Tools** | Utilities for formatting & managing docs | ![Active](https://img.shields.io/badge/⛏_MINING-55ff55?style=flat-square&labelColor=2d2d2d) |
+| 🌐 **3D Portfolio** | Immersive 3D portfolio using Three.js | ![WIP](https://img.shields.io/badge/🔨_CRAFTING-ffaa00?style=flat-square&labelColor=2d2d2d) |
+| 🤖 **GPT3 UI Clone** | AI-themed landing page with React & CSS | ![Done](https://img.shields.io/badge/✅_BUILT-5588ff?style=flat-square&labelColor=2d2d2d) |
 
 </div>
 
----
-
-## 🗂️ Active Projects
+<!-- ░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+📫  CONNECT WITH ME  ——  [ OPEN TO PARTY INVITE ]  🎮
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 <div align="center">
 
-| Project | Description | Status |
-|--------|------------|--------|
-| 📖 **RGPV Lab Manuals** | Open lab manuals for RGPV CSIT practical subjects | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| ⌨️ **Custom Keyboards** | Firmware & layout experiments | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| 🤖 **On-Device AI** | Edge inference & lightweight AI tools | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| 📄 **Document Tools** | Utilities for formatting, generating & managing docs | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| 🌐 **3D Portfolio** | Immersive 3D personal portfolio using Three.js | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
-| 🤖 **GPT3 UI Clone** | AI-themed landing page built with React & CSS | ![Done](https://img.shields.io/badge/Done-blue?style=flat-square) |
+[![GitHub](https://img.shields.io/badge/⛏_GitHub-ptiwari898-181717?style=for-the-badge&logo=github&logoColor=55ff55&labelColor=1a1a1a)](https://github.com/ptiwari898)
 
 </div>
 
----
+<!-- ░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░░ -->
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+💻  TECH STACK  ——  [ CRAFTING TABLE RECIPES ]  🪓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-## 📫 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ptiwari898-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ptiwari898)
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-### 🗣️ Languages
-
+```
+[ 🗣️ LANGUAGES — SPELL BOOK ]
+```
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -101,8 +143,9 @@ fun_fact   : "I turn coffee into code ☕"
 
 </div>
 
-### 🛠️ Frameworks & Tools
-
+```
+[ 🛠️ FRAMEWORKS & TOOLS — ENCHANTED GEAR ]
+```
 <div align="center">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -119,51 +162,65 @@ fun_fact   : "I turn coffee into code ☕"
 
 </div>
 
----
-
-## 📊 GitHub Stats
+<!-- ░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░░░ -->
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+📊  GITHUB STATS  ——  [ SCOREBOARD ]  🧮
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 <div align="center">
 
-<!-- Animated Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=ptiwari898&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=6C63FF&icon_color=B026FF&text_color=ffffff" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptiwari898&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=6C63FF&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ptiwari898&show_icons=true&theme=dark&hide_border=true&border_radius=0&bg_color=1a1a1a&title_color=55ff55&icon_color=ffaa00&text_color=aaffaa&ring_color=55ff55" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptiwari898&layout=compact&theme=dark&hide_border=true&border_radius=0&bg_color=1a1a1a&title_color=55ff55&text_color=aaffaa" height="180"/>
 
 </div>
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=ptiwari898&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=6C63FF&fire=B026FF&currStreakLabel=ffffff" width="49%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=ptiwari898&theme=dark&hide_border=true&border_radius=0&background=1a1a1a&ring=55ff55&fire=ffaa00&currStreakLabel=aaffaa&sideLabels=aaffaa&dates=888888" width="60%"/>
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptiwari898&theme=tokyonight" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptiwari898&theme=github_dark" width="98%"/>
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<!-- ░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+🏆  TROPHIES  ——  [ ACHIEVEMENTS CHEST ]  🎖️
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ptiwari898&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ptiwari898&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 </div>
 
----
+<!-- ░░░░░░░░░░░░░░░░░░ MINECRAFT FOOTER ░░░░░░░░░░░░░░░░░ -->
 
-<!-- Animated Wave Footer -->
+<br/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B026FF,100:6C63FF&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3d2b1f,50:5c3a1e,100:2d3d1b&height=20"/>
 
-*"The best way to predict the future is to create it."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5c8a3c,50:4a7a2e,100:3d6b24&height=18"/>
 
-⭐ **If you find my work useful, consider giving a star!** ⭐
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:1a1a1a&height=60&section=footer&text=%E2%9B%8F%EF%B8%8F+Still+Crafting...+Do+not+break+the+blocks!+%F0%9F%8C%BF&fontSize=14&fontColor=55ff55&animation=blinking"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5c8a3c,50:4a7a2e,100:3d6b24&height=18"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3d2b1f,50:5c3a1e,100:2d3d1b&height=20"/>
+
+<br/><br/>
+
+```
+⭐ Drop a STAR if you enjoyed my world — it helps a lot! ⭐
+```
 
 </div>
