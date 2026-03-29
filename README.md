@@ -13,7 +13,6 @@
 
 <br/><br/>
 
-<!-- ══ BADGES ══ -->
 [![Profile Views](https://komarev.com/ghpvc/?username=ptiwari898&color=57cc99&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ptiwari898)
 [![Followers](https://img.shields.io/github/followers/ptiwari898?style=for-the-badge&color=80ed99&labelColor=22333b&label=FOLLOWERS)](https://github.com/ptiwari898?tab=followers)
 
@@ -21,19 +20,11 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--               SNAKE ANIMATION                     -->
-<!-- ══════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════════ -->
-<!--                  ABOUT ME                         -->
-<!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=📦+PLAYER+STATS" alt="section" />
@@ -58,10 +49,6 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                  EXPERIENCE                       -->
-<!-- ══════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=🏆+ACHIEVEMENTS+UNLOCKED" alt="section" />
 </div>
@@ -77,33 +64,6 @@
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════════ -->
-<!--               ACTIVE PROJECTS                     -->
-<!-- ══════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=📦+CHEST+CONTENTS" alt="section" />
-</div>
-
-<div align="center">
-
-| 📦 Project | 📜 Description | 🔖 Status |
-|:---|:---|:---:|
-| 📖 **RGPV Lab Manuals** | Open lab manuals for RGPV CSIT | ![](https://img.shields.io/badge/⛏_MINING-57cc99?style=flat-square) |
-| ⌨️ **Custom Keyboards** | Firmware & layout experiments | ![](https://img.shields.io/badge/⛏_MINING-57cc99?style=flat-square) |
-| 🤖 **On-Device AI** | Edge inference & AI tools | ![](https://img.shields.io/badge/⛏_MINING-57cc99?style=flat-square) |
-| 📄 **Document Tools** | Formatting & doc automation | ![](https://img.shields.io/badge/⛏_MINING-57cc99?style=flat-square) |
-| 🌐 **3D Portfolio** | Three.js immersive portfolio | ![](https://img.shields.io/badge/🔨_CRAFTING-FFD700?style=flat-square) |
-| 🤖 **GPT3 UI Clone** | AI landing page — React + CSS | ![](https://img.shields.io/badge/✅_BUILT-61a5c2?style=flat-square) |
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════ -->
-<!--                 TECH STACK                        -->
-<!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=450&height=40&lines=⚒️+CRAFTING+TABLE" alt="section" />
@@ -139,9 +99,28 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                 GITHUB STATS                      -->
-<!-- ══════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🤖 AUTO-UPDATED SECTION — managed by GitHub Actions  -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=520&height=40&lines=🗂️+MY+REPOSITORIES+(AUTO+UPDATED)" alt="section" />
+</div>
+
+> 🤖 _Auto-updated every day by GitHub Actions · New repos appear here automatically!_
+
+| 📦 Repository | 📜 Description | 🗣️ Language | ⭐ Stars | 🕐 Updated |
+|:---|:---|:---:|:---:|:---:|
+| [**3d-portfolio**](https://github.com/ptiwari898/3d-portfolio) | Immersive 3D personal portfolio website | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2023-10-01` |
+| [**GPT3**](https://github.com/ptiwari898/GPT3) | GPT-3 inspired landing page UI | ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2023-09-15` |
+| [**React-projects**](https://github.com/ptiwari898/React-projects) | Collection of React-based mini projects | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2023-08-10` |
+| [**code**](https://github.com/ptiwari898/code) | HTML/CSS/JS code experiments | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2023-07-20` |
+| [**TestWordPress**](https://github.com/ptiwari898/TestWordPress) | WordPress theme/plugin experiments | — | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2023-06-05` |
+| [**VRS**](https://github.com/ptiwari898/VRS) | Vehicle-related system project | — | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2023-05-01` |
+
+<!-- END AUTO-UPDATED SECTION -->
+
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=📊+SCOREBOARD" alt="section" />
@@ -167,10 +146,6 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                  TROPHIES                         -->
-<!-- ══════════════════════════════════════════════════ -->
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=🏆+TROPHY+ROOM" alt="section" />
 </div>
@@ -181,15 +156,9 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                    FOOTER                         -->
-<!-- ══════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=⛏%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65"/>
-
-<br/>
 
 **⭐ Star my repos if you find them useful! ⭐**
 
