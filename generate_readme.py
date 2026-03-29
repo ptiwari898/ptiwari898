@@ -12,10 +12,10 @@ def get_repos():
     url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100&sort=updated"
     response = requests.get(url, headers=headers)
     repos = response.json()
-    # Filter out forked repos and the profile repo itself
+    # Filter out forked repos, private repos, and the profile repo itself
     return [
         r for r in repos
-        if not r.get("fork") and r["name"] != USERNAME
+        if not r.get("fork") and not r.get("private") and r["name"] != USERNAME
     ]
 
 def lang_badge_color(lang):
