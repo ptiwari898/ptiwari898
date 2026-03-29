@@ -4,12 +4,12 @@
 <!--          MINECRAFT ANIMATED HEADER                -->
 <!-- ══════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=⛏%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20⛏&descAlignY=72&descSize=18&descColor=95d5b2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=95d5b2"/>
 
 <br/>
 
 <!-- ══ MINECRAFT PIXEL TYPING ANIMATION ══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=55FF55&center=true&vCenter=true&width=700&height=70&lines=🎮+Welcome+Player+ptiwari898!;🏫+Asst+Prof+%40+SIRT+Bhopal;💻+Full+Stack+Dev+%26+AI+Explorer;📚+RGPV+Open+Lab+Manuals+Author;⌨️+Custom+Keyboards+%26+On-Device+AI;☕+Coffee+→+Code+→+Repeat!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=55FF55&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%AE+Welcome+Player+ptiwari898!;%F0%9F%8F%AB+Asst+Prof+%40+SIRT+Bhopal;%F0%9F%92%BB+Full+Stack+Dev+%26+AI+Explorer;%F0%9F%93%9A+RGPV+Open+Lab+Manuals+Author;%E2%8C%A8%EF%B8%8F+Custom+Keyboards+%26+On-Device+AI;%E2%98%95+Coffee+%E2%86%92+Code+%E2%86%92+Repeat!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=📦+PLAYER+STATS" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%A6+PLAYER+STATS" alt="section" />
 </div>
 
 ```
@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=🏆+ACHIEVEMENTS+UNLOCKED" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%8F%86+ACHIEVEMENTS+UNLOCKED" alt="section" />
 </div>
 
 <div align="center">
@@ -66,7 +66,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=450&height=40&lines=⚒️+CRAFTING+TABLE" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=450&height=40&lines=%E2%9A%92%EF%B8%8F+CRAFTING+TABLE" alt="section" />
 </div>
 
 <div align="center">
@@ -104,31 +104,31 @@
 <!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=🗂️+MY+REPOSITORIES+(13+total)" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+MY+REPOSITORIES+(13+total)" alt="section" />
 </div>
 
 > 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-03-29 08:11 UTC**_
 
 | 📦 Repository | 📜 Description | 🗣️ Language | ⭐ Stars | 🕐 Updated |
 |:---|:---|:---:|:---:|:---:|
-| [**RGPVBULKRESULT**](https://github.com/ptiwari898/RGPVBULKRESULT) | No description | — | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2026-02-12` |
-| [**RGPV_RESULT-**](https://github.com/ptiwari898/RGPV_RESULT-) | No description | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2026-01-20` |
-| [**portfolio**](https://github.com/ptiwari898/portfolio) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2026-01-19` |
-| [**SIRT_CSIT_Linux**](https://github.com/ptiwari898/SIRT_CSIT_Linux) | No description | — | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2025-09-21` |
-| [**Java-Lab-Programs**](https://github.com/ptiwari898/Java-Lab-Programs) | Java Lab Programs RGPV | — | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2025-09-15` |
-| [**miranda.github.io**](https://github.com/ptiwari898/miranda.github.io) | No description | ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2023-06-08` |
-| [**netflixClone**](https://github.com/ptiwari898/netflixClone) | No description | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2023-06-01` |
-| [**3d-portfolio**](https://github.com/ptiwari898/3d-portfolio) | No description | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2023-03-28` |
-| [**GPT3**](https://github.com/ptiwari898/GPT3) | No description | ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2023-03-25` |
-| [**React-projects**](https://github.com/ptiwari898/React-projects) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2022-08-17` |
-| [**code**](https://github.com/ptiwari898/code) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2021-08-29` |
-| [**TestWordPress**](https://github.com/ptiwari898/TestWordPress) | TestWordPress | — | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2020-03-28` |
-| [**VRS**](https://github.com/ptiwari898/VRS) | No description | — | ![](https://img.shields.io/badge/⭐-0-FFD700?style=flat-square) | `2018-03-31` |
+| [**RGPVBULKRESULT**](https://github.com/ptiwari898/RGPVBULKRESULT) | No description | — | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2026-02-12` |
+| [**RGPV_RESULT-**](https://github.com/ptiwari898/RGPV_RESULT-) | No description | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2026-01-20` |
+| [**portfolio**](https://github.com/ptiwari898/portfolio) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2026-01-19` |
+| [**SIRT_CSIT_Linux**](https://github.com/ptiwari898/SIRT_CSIT_Linux) | No description | — | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2025-09-21` |
+| [**Java-Lab-Programs**](https://github.com/ptiwari898/Java-Lab-Programs) | Java Lab Programs RGPV | — | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2025-09-15` |
+| [**miranda.github.io**](https://github.com/ptiwari898/miranda.github.io) | No description | ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2023-06-08` |
+| [**netflixClone**](https://github.com/ptiwari898/netflixClone) | No description | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2023-06-01` |
+| [**3d-portfolio**](https://github.com/ptiwari898/3d-portfolio) | No description | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2023-03-28` |
+| [**GPT3**](https://github.com/ptiwari898/GPT3) | No description | ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2023-03-25` |
+| [**React-projects**](https://github.com/ptiwari898/React-projects) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2022-08-17` |
+| [**code**](https://github.com/ptiwari898/code) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2021-08-29` |
+| [**TestWordPress**](https://github.com/ptiwari898/TestWordPress) | TestWordPress | — | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2020-03-28` |
+| [**VRS**](https://github.com/ptiwari898/VRS) | No description | — | ![](https://img.shields.io/badge/%E2%AD%90-0-FFD700?style=flat-square) | `2018-03-31` |
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=📊+SCOREBOARD" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%8A+SCOREBOARD" alt="section" />
 </div>
 
 <div align="center">
@@ -152,7 +152,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=🏆+TROPHY+ROOM" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%8F%86+TROPHY+ROOM" alt="section" />
 </div>
 
 <div align="center">
@@ -163,7 +163,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=⛏%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65"/>
 
 **⭐ Star my repos if you find them useful! ⭐**
 

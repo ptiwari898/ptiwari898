@@ -1,6 +1,7 @@
 import requests
 import os
 from datetime import datetime
+from urllib.parse import quote
 
 USERNAME = "ptiwari898"
 GITHUB_TOKEN = os.environ.get("GH_TOKEN", "")
@@ -49,11 +50,11 @@ def build_repo_table(repos):
 
         if lang != "—":
             color = lang_badge_color(lang)
-            lang_badge = f"![](https://img.shields.io/badge/{lang.replace(' ', '%20').replace('+', '%2B')}-{color}?style=flat-square&logoColor=white)"
+            lang_badge = f"![](https://img.shields.io/badge/{quote(lang, safe='')}-{color}?style=flat-square&logoColor=white)"
         else:
             lang_badge = "—"
 
-        star_badge = f"![](https://img.shields.io/badge/⭐-{stars}-FFD700?style=flat-square)"
+        star_badge = f"![](https://img.shields.io/badge/%E2%AD%90-{stars}-FFD700?style=flat-square)"
         rows.append(f"| [**{name}**]({url}) | {desc[:55]}{'...' if len(desc) > 55 else ''} | {lang_badge} | {star_badge} | `{updated}` |")
 
     header = "| 📦 Repository | 📜 Description | 🗣️ Language | ⭐ Stars | 🕐 Updated |\n"
@@ -71,12 +72,12 @@ def generate_readme(repos):
 <!--          MINECRAFT ANIMATED HEADER                -->
 <!-- ══════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=⛏%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20⛏&descAlignY=72&descSize=18&descColor=95d5b2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=95d5b2"/>
 
 <br/>
 
 <!-- ══ MINECRAFT PIXEL TYPING ANIMATION ══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=55FF55&center=true&vCenter=true&width=700&height=70&lines=🎮+Welcome+Player+ptiwari898!;🏫+Asst+Prof+%40+SIRT+Bhopal;💻+Full+Stack+Dev+%26+AI+Explorer;📚+RGPV+Open+Lab+Manuals+Author;⌨️+Custom+Keyboards+%26+On-Device+AI;☕+Coffee+→+Code+→+Repeat!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=55FF55&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%AE+Welcome+Player+ptiwari898!;%F0%9F%8F%AB+Asst+Prof+%40+SIRT+Bhopal;%F0%9F%92%BB+Full+Stack+Dev+%26+AI+Explorer;%F0%9F%93%9A+RGPV+Open+Lab+Manuals+Author;%E2%8C%A8%EF%B8%8F+Custom+Keyboards+%26+On-Device+AI;%E2%98%95+Coffee+%E2%86%92+Code+%E2%86%92+Repeat!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -94,7 +95,7 @@ def generate_readme(repos):
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=📦+PLAYER+STATS" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%A6+PLAYER+STATS" alt="section" />
 </div>
 
 ```
@@ -117,7 +118,7 @@ def generate_readme(repos):
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=🏆+ACHIEVEMENTS+UNLOCKED" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%8F%86+ACHIEVEMENTS+UNLOCKED" alt="section" />
 </div>
 
 <div align="center">
@@ -133,7 +134,7 @@ def generate_readme(repos):
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=450&height=40&lines=⚒️+CRAFTING+TABLE" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=450&height=40&lines=%E2%9A%92%EF%B8%8F+CRAFTING+TABLE" alt="section" />
 </div>
 
 <div align="center">
@@ -171,7 +172,7 @@ def generate_readme(repos):
 <!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=🗂️+MY+REPOSITORIES+({total}+total)" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+MY+REPOSITORIES+({total}+total)" alt="section" />
 </div>
 
 > 🤖 _Auto-updated by GitHub Actions · Last sync: **{now}**_
@@ -181,7 +182,7 @@ def generate_readme(repos):
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=📊+SCOREBOARD" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%8A+SCOREBOARD" alt="section" />
 </div>
 
 <div align="center">
@@ -205,7 +206,7 @@ def generate_readme(repos):
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=🏆+TROPHY+ROOM" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%8F%86+TROPHY+ROOM" alt="section" />
 </div>
 
 <div align="center">
@@ -216,7 +217,7 @@ def generate_readme(repos):
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=⛏%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65"/>
 
 **⭐ Star my repos if you find them useful! ⭐**
 
