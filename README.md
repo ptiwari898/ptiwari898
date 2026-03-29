@@ -1,73 +1,117 @@
 <div align="center">
 
-[![capsule-render](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Pawan%20Tiwari&desc=Assistant%20Professor%20%C2%B7%20SIRT%20Bhopal&descAlignY=68&theme=tokyonight)](https://github.com/ptiwari898)
+<!-- ══════════════════════════════════════════════════ -->
+<!--          MINECRAFT ANIMATED HEADER                -->
+<!-- ══════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Expletus+Sans&pause=1000&color=628FDA&center=true&vCenter=true&width=700&lines=Assistant+Professor+%40+SIRT+Bhopal;M.Tech+CSE+%7C+Full+Stack+Developer;React+%7C+Flutter+%7C+AI%2FML+Explorer;RGPV+Open+Lab+Manuals+Author;Coffee+%E2%86%92+Code+%E2%86%92+Repeat!)](https://github.com/ptiwari898)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=95d5b2">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:6a994e,50:a7c957,100:d4e09b&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=1b4332&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=2d6a4f">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=95d5b2" alt="Header">
+</picture>
 
-**Assistant Professor · SIRT Bhopal**
+<br/>
 
-*M.Tech CSE · Full Stack Developer · React · Flutter · AI/ML Explorer*
+<!-- ══ MINECRAFT PIXEL TYPING ANIMATION ══ -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=55FF55&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%AE+Welcome+Player+ptiwari898!;%F0%9F%8F%AB+Asst+Prof+%40+SIRT+Bhopal;%F0%9F%92%BB+Full+Stack+Dev+%26+AI+Explorer;%F0%9F%93%9A+RGPV+Open+Lab+Manuals+Author;%E2%8C%A8%EF%B8%8F+Custom+Keyboards+%26+On-Device+AI;%E2%98%95+Coffee+%E2%86%92+Code+%E2%86%92+Repeat!" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/ptiwari898)
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ptiwari898&color=57cc99&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ptiwari898)
+[![Followers](https://img.shields.io/github/followers/ptiwari898?style=for-the-badge&color=80ed99&labelColor=22333b&label=FOLLOWERS)](https://github.com/ptiwari898?tab=followers)
 
 </div>
 
 ---
 
-## About Me
-
-I am an Assistant Professor at SIRT Bhopal with an M.Tech in CSE. I work across the full stack — from front-end development with React and Flutter to exploring AI/ML and on-device AI. I publish open lab manuals for RGPV courses on GitHub and enjoy turning coffee into code.
-
-- 🔭 Currently building **3D Portfolio & React Projects**
-- 🌱 Learning **Flutter · AI/ML · Full Stack Development**
-- 👯 Open to collaborate on interesting projects
-- ⚡ Fun fact: I turn coffee into code ☕
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
 
 ---
 
-## Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%A6+PLAYER+STATS" alt="section" />
+</div>
 
-**Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=wordpress&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
-
-**Design & AI**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=adobexd&logoColor=FF61F6)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![NVIDIA CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+```
+╔════════════════════════════════════════════════════════╗
+║  🎮  PLAYER : ptiwari898                              ║
+║  📛  NAME   : Pawan Tiwari                            ║
+║  🏫  ROLE   : Assistant Professor @ SIRT Bhopal       ║
+║  🎓  EDU    : M.Tech in CSE                           ║
+║  📍  LOC    : Bhopal, India 🇮🇳                         ║
+╠════════════════════════════════════════════════════════╣
+║  ⚗️  CRAFTING (Currently Learning)                     ║
+║  ├─ 🔭  3D Portfolio & React Projects                 ║
+║  ├─ 🌱  Flutter · AI/ML · Full Stack                  ║
+║  └─ 👯  Open to Collaborate!                          ║
+╠════════════════════════════════════════════════════════╣
+║  ⚡  FUN : I turn coffee into code ☕                   ║
+╚════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## Experience
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%8F%86+ACHIEVEMENTS+UNLOCKED" alt="section" />
+</div>
 
-| Role | Organization | Duration |
-|---|---|---|
-| Assistant Professor | SIRT Bhopal | 2023 – Present |
-| Front-End Developer | Freelance | 2021 – 2023 |
-| Motion Graphic Designer | Praadis Technologies | 2019 – 2020 |
+<div align="center">
+
+| 🎖️ Role | 🏰 Organization | ⏳ Duration |
+|:---:|:---:|:---:|
+| 🏫 Assistant Professor | **SIRT Bhopal** | `2023 → NOW` |
+| 🌐 Front-End Developer | **Freelance** | `2021 → 2023` |
+| 🎬 Motion Graphic Designer | **Praadis Technologies** | `2019 → 2020` |
+
+</div>
 
 ---
 
-## Repositories
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=450&height=40&lines=%E2%9A%92%EF%B8%8F+CRAFTING+TABLE" alt="section" />
+</div>
 
-<!-- AUTO-UPDATED REPOS — regenerated by GitHub Actions -->
+<div align="center">
 
-> 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-03-29 19:44 UTC**_
+**🗣️ Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**🛠️ Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+**🎨 Design & AI**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![NVIDIA CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════ -->
+<!--   AUTO-UPDATED REPOS — regenerated by GitHub Actions  -->
+<!-- ══════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+MY+REPOSITORIES+(12+total)" alt="section" />
+</div>
+
+> 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-03-29 19:56 UTC**_
 
 | Repository | Description | Language | Stars | Updated |
 |:---|:---|:---:|:---:|:---:|
@@ -86,36 +130,48 @@ I am an Assistant Professor at SIRT Bhopal with an M.Tech in CSE. I work across 
 
 ---
 
-## GitHub Stats
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%8A+SCOREBOARD" alt="section" />
+</div>
 
 <div align="center">
 
-![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptiwari898&theme=tokyonight)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptiwari898&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/ptiwari898)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ptiwari898&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ptiwari898)
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ptiwari898&theme=tokyonight&hide_border=true)](https://github.com/ptiwari898)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ptiwari898&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ptiwari898)
-
-![Profile Visits](https://komarev.com/ghpvc/?username=ptiwari898&color=B026FF&style=flat)
+<img src="https://github-readme-stats.vercel.app/api?username=ptiwari898&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=57cc99&icon_color=80ed99&text_color=c7f9cc" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptiwari898&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=57cc99&text_color=c7f9cc" height="175"/>
 
 </div>
 
----
-
-## Contribution Snake
-
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://nirzak-streak-stats.vercel.app/?user=ptiwari898&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=57cc99&fire=80ed99&currStreakLabel=c7f9cc&sideLabels=c7f9cc&dates=888888" width="55%"/>
 
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptiwari898&theme=github_dark" width="98%"/>
 </div>
 
 ---
 
 <div align="center">
-<sub>Built with curiosity, caffeine, and a lot of code.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%8F%86+TROPHY+ROOM" alt="section" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ptiwari898&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6a994e,50:a7c957,100:d4e09b&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=1b4332&animation=fadeIn&fontAlignY=65">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65" alt="Footer">
+</picture>
+
+**⭐ Star my repos if you find them useful! ⭐**
+
 </div>
