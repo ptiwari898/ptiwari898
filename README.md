@@ -108,13 +108,14 @@
 <!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+MY+REPOSITORIES+(12+total)" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+MY+REPOSITORIES+(13+total)" alt="section" />
 </div>
 
-> 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-04-26 01:25 UTC**_
+> 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-04-27 01:26 UTC**_
 
 | Repository | Description | Language | Stars | Updated |
 |:---|:---|:---:|:---:|:---:|
+| [**ppt_to_word**](https://github.com/ptiwari898/ppt_to_word) | No description | ![](https://img.shields.io/badge/Tcl-57cc99?style=flat-square&logoColor=white) | ⭐ 0 | `2026-04-26` |
 | [**RGPVBULKRESULT**](https://github.com/ptiwari898/RGPVBULKRESULT) | No description | — | ⭐ 0 | `2026-02-12` |
 | [**portfolio**](https://github.com/ptiwari898/portfolio) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ⭐ 0 | `2026-01-19` |
 | [**SIRT_CSIT_Linux**](https://github.com/ptiwari898/SIRT_CSIT_Linux) | No description | — | ⭐ 0 | `2025-09-21` |
