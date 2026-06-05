@@ -4,11 +4,7 @@
 <!--          MINECRAFT ANIMATED HEADER                -->
 <!-- ══════════════════════════════════════════════════ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=95d5b2">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:6a994e,50:a7c957,100:d4e09b&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=1b4332&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=2d6a4f">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=95d5b2" alt="Header">
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=220&text=Pawan%20Tiwari&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%E2%9B%8F%20Assistant%20Prof%20%7C%20Dev%20%7C%20AI%20Explorer%20%E2%9B%8F&descAlignY=65&descSize=18&descColor=95d5b2" alt="Pawan Tiwari - Assistant Prof | Dev | AI Explorer" />
 
 <br/>
 
@@ -47,9 +43,41 @@
 ║  ├─ 🌱  Flutter · AI/ML · Full Stack                  ║
 ║  └─ 👯  Open to Collaborate!                          ║
 ╠════════════════════════════════════════════════════════╣
+║  📬  REACH ME                                         ║
+║  ├─ 💼  linkedin.com/in/ptiwari898                    ║
+║  ├─ 📧  ptiwari898@gmail.com                          ║
+║  └─ 🌐  github.com/ptiwari898                         ║
+╠════════════════════════════════════════════════════════╣
 ║  ⚡  FUN : I turn coffee into code ☕                   ║
 ╚════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ptiwari898)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ptiwari898@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ptiwari898)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%9A%80+FEATURED+PROJECTS" alt="section" />
+</div>
+
+<div align="center">
+
+| 🗂️ Project | 📝 Description | 🔧 Stack |
+|:---|:---|:---:|
+| [**mid_sem_seating**](https://github.com/ptiwari898/mid_sem_seating) | Exam seating arrangement & marks submission portal for SIRT Bhopal. Handles multi-branch student allocation, teacher login, and Excel export. | `Python` `Streamlit` `SQLite` `openpyxl` |
+| [**RGPVBULKRESULT**](https://github.com/ptiwari898/RGPVBULKRESULT) | Bulk result scraper for RGPV university — fetch & export semester results for entire batches with branch filtering. | `Python` `Requests` `openpyxl` |
+| [**3d-portfolio**](https://github.com/ptiwari898/3d-portfolio) | Interactive 3D developer portfolio built with Three.js and React. | `JavaScript` `React` `Three.js` |
+| [**ppt_to_word**](https://github.com/ptiwari898/ppt_to_word) | Converts PowerPoint presentations to Word documents preserving layout. | `Python` `Tcl` |
+| [**portfolio**](https://github.com/ptiwari898/portfolio) | Personal portfolio website with responsive design. | `HTML` `CSS` `JavaScript` |
+| [**Java-Lab-Programs**](https://github.com/ptiwari898/Java-Lab-Programs) | Complete Java lab programs for RGPV syllabus — useful for CSIT/IT students. | `Java` |
+
+</div>
 
 ---
 
@@ -81,13 +109,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **🛠️ Frameworks & Tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
@@ -97,9 +128,28 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6)
 ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![NVIDIA CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%8C%B1+CURRENTLY+BUILDING" alt="section" />
+</div>
+
+```
+╔════════════════════════════════════════════════════════╗
+║  🔨  STATUS : Still Crafting...                       ║
+╠════════════════════════════════════════════════════════╣
+║  ├─ 🤖  On-Device AI with Ollama + LM Studio          ║
+║  ├─ 🧊  Blender MCP + LLM 3D Modeling Pipeline        ║
+║  ├─ 📊  RGPV Academic Tools (Seating, Results, Marks) ║
+║  ├─ 🧠  Local LLM experiments (Qwen, Gemma, Llama)    ║
+║  └─ 📱  Flutter App Development                       ║
+╚════════════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -108,27 +158,27 @@
 <!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+MY+REPOSITORIES+(14+total)" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+ALL+REPOSITORIES" alt="section" />
 </div>
 
-> 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-06-05 09:26 UTC**_
+> 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-06-05 02:05 UTC**_
 
 | Repository | Description | Language | Stars | Updated |
 |:---|:---|:---:|:---:|:---:|
-| [**mid_sem_seating**](https://github.com/ptiwari898/mid_sem_seating) | No description | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white) | ⭐ 0 | `2026-05-16` |
-| [**ppt_to_word**](https://github.com/ptiwari898/ppt_to_word) | No description | ![](https://img.shields.io/badge/Tcl-57cc99?style=flat-square&logoColor=white) | ⭐ 0 | `2026-04-26` |
-| [**RGPVBULKRESULT**](https://github.com/ptiwari898/RGPVBULKRESULT) | No description | — | ⭐ 0 | `2026-02-12` |
-| [**portfolio**](https://github.com/ptiwari898/portfolio) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ⭐ 0 | `2026-01-19` |
-| [**SIRT_CSIT_Linux**](https://github.com/ptiwari898/SIRT_CSIT_Linux) | No description | — | ⭐ 0 | `2025-09-21` |
-| [**Java-Lab-Programs**](https://github.com/ptiwari898/Java-Lab-Programs) | Java Lab Programs RGPV | — | ⭐ 0 | `2025-09-15` |
-| [**miranda.github.io**](https://github.com/ptiwari898/miranda.github.io) | No description | ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white) | ⭐ 0 | `2023-06-08` |
-| [**netflixClone**](https://github.com/ptiwari898/netflixClone) | No description | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white) | ⭐ 0 | `2023-06-01` |
-| [**3d-portfolio**](https://github.com/ptiwari898/3d-portfolio) | No description | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white) | ⭐ 0 | `2023-03-28` |
-| [**GPT3**](https://github.com/ptiwari898/GPT3) | No description | ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white) | ⭐ 0 | `2023-03-25` |
-| [**React-projects**](https://github.com/ptiwari898/React-projects) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ⭐ 0 | `2022-08-17` |
-| [**code**](https://github.com/ptiwari898/code) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ⭐ 0 | `2021-08-29` |
-| [**TestWordPress**](https://github.com/ptiwari898/TestWordPress) | TestWordPress | — | ⭐ 0 | `2020-03-28` |
-| [**VRS**](https://github.com/ptiwari898/VRS) | No description | — | ⭐ 0 | `2018-03-31` |
+| [**mid_sem_seating**](https://github.com/ptiwari898/mid_sem_seating) | Exam seating & marks portal for SIRT Bhopal | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white) | ⭐ 0 | `2026-05-16` |
+| [**ppt_to_word**](https://github.com/ptiwari898/ppt_to_word) | PowerPoint to Word document converter | ![](https://img.shields.io/badge/Tcl-57cc99?style=flat-square&logoColor=white) | ⭐ 0 | `2026-04-26` |
+| [**RGPVBULKRESULT**](https://github.com/ptiwari898/RGPVBULKRESULT) | Bulk RGPV result scraper with branch filtering & Excel export | — | ⭐ 0 | `2026-02-12` |
+| [**portfolio**](https://github.com/ptiwari898/portfolio) | Personal portfolio website | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ⭐ 0 | `2026-01-19` |
+| [**SIRT_CSIT_Linux**](https://github.com/ptiwari898/SIRT_CSIT_Linux) | Linux lab resources for SIRT CSIT students (RGPV syllabus) | — | ⭐ 0 | `2025-09-21` |
+| [**Java-Lab-Programs**](https://github.com/ptiwari898/Java-Lab-Programs) | Java Lab Programs for RGPV syllabus | — | ⭐ 0 | `2025-09-15` |
+| [**miranda.github.io**](https://github.com/ptiwari898/miranda.github.io) | Frontend web project | ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white) | ⭐ 0 | `2023-06-08` |
+| [**netflixClone**](https://github.com/ptiwari898/netflixClone) | Netflix UI clone built with HTML, CSS & JavaScript | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white) | ⭐ 0 | `2023-06-01` |
+| [**3d-portfolio**](https://github.com/ptiwari898/3d-portfolio) | Interactive 3D portfolio with Three.js & React | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white) | ⭐ 0 | `2023-03-28` |
+| [**GPT3**](https://github.com/ptiwari898/GPT3) | GPT-3 inspired UI design implementation | ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white) | ⭐ 0 | `2023-03-25` |
+| [**React-projects**](https://github.com/ptiwari898/React-projects) | Collection of React mini-projects | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ⭐ 0 | `2022-08-17` |
+| [**code**](https://github.com/ptiwari898/code) | Miscellaneous coding experiments | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ⭐ 0 | `2021-08-29` |
+| [**TestWordPress**](https://github.com/ptiwari898/TestWordPress) | WordPress theme & plugin testing sandbox | — | ⭐ 0 | `2020-03-28` |
+| [**VRS**](https://github.com/ptiwari898/VRS) | Vehicle Registration System (early project) | — | ⭐ 0 | `2018-03-31` |
 
 ---
 
@@ -168,11 +218,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6a994e,50:a7c957,100:d4e09b&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=1b4332&animation=fadeIn&fontAlignY=65">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65" alt="Footer">
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65" alt="Footer" />
 
 **⭐ Star my repos if you find them useful! ⭐**
 
