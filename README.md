@@ -1,20 +1,24 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════ -->
-<!--          TRANSFORMERS ANIMATED HEADER              -->
+<!--          MINECRAFT ANIMATED HEADER                -->
 <!-- ══════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:cc0000,50:1a3d7c,100:ff6600&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%F0%9F%A4%96%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%F0%9F%A4%96&descAlignY=72&descSize=18&descColor=ffb347" alt="Pawan Tiwari header banner">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=95d5b2">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:6a994e,50:a7c957,100:d4e09b&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=1b4332&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=2d6a4f">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a472a,50:2d6a4f,100:40916c&height=200&text=Pawan%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=%E2%9B%8F%20ASSISTANT%20PROF%20%7C%20DEV%20%7C%20AI%20EXPLORER%20%E2%9B%8F&descAlignY=72&descSize=18&descColor=95d5b2" alt="Header">
+</picture>
 
 <br/>
 
-<!-- ══ AUTOBOT SCANNER TYPING ANIMATION ══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=1000&color=FF6600&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%A4%96+Scanning+unit%3A+ptiwari898...;%E2%9A%99%EF%B8%8F+Asst+Prof+%40+SIRT+Bhopal;%F0%9F%94%A9+Full+Stack+Dev+%26+AI+Explorer;%F0%9F%93%A1+RGPV+Open+Lab+Manuals+Author;%E2%9A%A1+Custom+Keyboards+%26+On-Device+AI;%F0%9F%9B%A2+Energon+%E2%86%92+Code+%E2%86%92+Repeat!" alt="Typing SVG" />
+<!-- ══ MINECRAFT PIXEL TYPING ANIMATION ══ -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=55FF55&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%8E%AE+Welcome+Player+ptiwari898!;%F0%9F%8F%AB+Asst+Prof+%40+SIRT+Bhopal;%F0%9F%92%BB+Full+Stack+Dev+%26+AI+Explorer;%F0%9F%93%9A+RGPV+Open+Lab+Manuals+Author;%E2%8C%A8%EF%B8%8F+Custom+Keyboards+%26+On-Device+AI;%E2%98%95+Coffee+%E2%86%92+Code+%E2%86%92+Repeat!" alt="Typing SVG" />
 
 <br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ptiwari898&color=cc0000&style=for-the-badge&label=SCANS+DETECTED)](https://github.com/ptiwari898)
-[![Followers](https://img.shields.io/github/followers/ptiwari898?style=for-the-badge&color=1a3d7c&labelColor=22333b&label=ALLIES)](https://github.com/ptiwari898?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=ptiwari898&color=57cc99&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ptiwari898)
+[![Followers](https://img.shields.io/github/followers/ptiwari898?style=for-the-badge&color=80ed99&labelColor=22333b&label=FOLLOWERS)](https://github.com/ptiwari898?tab=followers)
 
 </div>
 
@@ -27,30 +31,30 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=9999&color=FF6600&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%A1+UNIT+DATA" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%A6+PLAYER+STATS" alt="section" />
 </div>
 
 ```
 ╔════════════════════════════════════════════════════════╗
-║  🤖  UNIT     : ptiwari898                            ║
-║  📛  NAME     : Pawan Tiwari                          ║
-║  🏫  FUNCTION : Assistant Professor @ SIRT Bhopal     ║
-║  🎓  TRAINING : M.Tech in CSE                         ║
-║  📍  BASE     : Bhopal, India 🇮🇳                       ║
+║  🎮  PLAYER : ptiwari898                              ║
+║  📛  NAME   : Pawan Tiwari                            ║
+║  🏫  ROLE   : Assistant Professor @ SIRT Bhopal       ║
+║  🎓  EDU    : M.Tech in CSE                           ║
+║  📍  LOC    : Bhopal, India 🇮🇳                         ║
 ╠════════════════════════════════════════════════════════╣
-║  ⚙️  SYSTEMS UPGRADING                                 ║
+║  ⚗️  CRAFTING (Currently Learning)                     ║
 ║  ├─ 🔭  3D Portfolio & React Projects                 ║
 ║  ├─ 🌱  Flutter · AI/ML · Full Stack                  ║
-║  └─ 👯  Open to Ally with New Units!                  ║
+║  └─ 👯  Open to Collaborate!                          ║
 ╠════════════════════════════════════════════════════════╣
-║  ⚡  FUEL : Energon runs on coffee ☕                   ║
+║  ⚡  FUN : I turn coffee into code ☕                   ║
 ╚════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=9999&color=FF6600&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%8E%96%EF%B8%8F+MISSION+LOG" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%8F%86+ACHIEVEMENTS+UNLOCKED" alt="section" />
 </div>
 
 <div align="center">
@@ -66,7 +70,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=9999&color=FF6600&center=true&vCenter=true&width=450&height=40&lines=%E2%9A%99%EF%B8%8F+TRANSFORMATION+MATRIX" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=450&height=40&lines=%E2%9A%92%EF%B8%8F+CRAFTING+TABLE" alt="section" />
 </div>
 
 <div align="center">
@@ -104,15 +108,15 @@
 <!-- ══════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=9999&color=FF6600&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+UNIT+ARCHIVES+(14+total)" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%97%82%EF%B8%8F+MY+REPOSITORIES+(14+total)" alt="section" />
 </div>
 
-> 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-07-02 02:01 UTC**_
+> 🤖 _Auto-updated by GitHub Actions · Last sync: **2026-07-02 05:41 UTC**_
 
 | Repository | Description | Language | Stars | Updated |
 |:---|:---|:---:|:---:|:---:|
 | [**mid_sem_seating**](https://github.com/ptiwari898/mid_sem_seating) | No description | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white) | ⭐ 0 | `2026-05-16` |
-| [**ppt_to_word**](https://github.com/ptiwari898/ppt_to_word) | No description | ![](https://img.shields.io/badge/Tcl-cc0000?style=flat-square&logoColor=white) | ⭐ 0 | `2026-04-26` |
+| [**ppt_to_word**](https://github.com/ptiwari898/ppt_to_word) | No description | ![](https://img.shields.io/badge/Tcl-57cc99?style=flat-square&logoColor=white) | ⭐ 0 | `2026-04-26` |
 | [**RGPVBULKRESULT**](https://github.com/ptiwari898/RGPVBULKRESULT) | No description | — | ⭐ 0 | `2026-02-12` |
 | [**portfolio**](https://github.com/ptiwari898/portfolio) | No description | ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white) | ⭐ 0 | `2026-01-19` |
 | [**SIRT_CSIT_Linux**](https://github.com/ptiwari898/SIRT_CSIT_Linux) | No description | — | ⭐ 0 | `2025-09-21` |
@@ -129,33 +133,46 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=9999&color=FF6600&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%A1+DIAGNOSTIC+SCAN" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%93%8A+SCOREBOARD" alt="section" />
 </div>
 
-<!--
-  Generated by .github/workflows/metrics.yml (lowlighter/metrics).
-  This file does not exist until that Action has run at least once.
-  Trigger it manually the first time: Actions tab → GitHub Metrics → Run workflow.
--->
 <div align="center">
-<img src="https://raw.githubusercontent.com/ptiwari898/ptiwari898/main/metrics.svg" width="98%" alt="GitHub metrics"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ptiwari898&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=57cc99&icon_color=80ed99&text_color=c7f9cc" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptiwari898&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=57cc99&text_color=c7f9cc" height="175"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ptiwari898&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=57cc99&fire=80ed99&currStreakLabel=c7f9cc&sideLabels=c7f9cc&dates=888888" width="55%"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ptiwari898&theme=github_dark" width="98%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&pause=9999&color=FF6600&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%8F%86+HALL+OF+PRIME" alt="section" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=%F0%9F%8F%86+TROPHY+ROOM" alt="section" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ptiwari898&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ptiwari898&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 </div>
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3d7c,50:cc0000,100:ff6600&height=130&section=footer&text=%F0%9F%A4%96%20Rolling%20Out...%20%E2%9A%99%EF%B8%8F&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=65" alt="Footer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6a994e,50:a7c957,100:d4e09b&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=1b4332&animation=fadeIn&fontAlignY=65">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a472a,50:2d6a4f,100:40916c&height=130&section=footer&text=%E2%9B%8F%20Still%20Crafting...%20%F0%9F%8C%B1&fontSize=22&fontColor=95d5b2&animation=fadeIn&fontAlignY=65" alt="Footer">
+</picture>
 
 **⭐ Star my repos if you find them useful! ⭐**
 
